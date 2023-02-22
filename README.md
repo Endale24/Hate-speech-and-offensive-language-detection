@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hate speech and offensive language detection
 
 ![hate](hate.jpg)
@@ -16,3 +17,6 @@ The project is divided into:
 - Project [presentation](Presentation.pptx)
 - [Web application](https://hate-speech-automatic-detector.herokuapp.com/) deployed on Heroku
 
+=======
+# Hate-speech-and-offensive-language-detection
+>>>>>>> c356176b0e7ad5f78b81f0f983e22ae16860afdd
