@@ -15,7 +15,7 @@ The project is divided into:
 - [Jupyter Notebook](Hate%20%speech%20%and%20%offensive%20%language%20%detection.ipynb) in Python with commented code with all the algorithms on the different datasets used.
 - [Dash App](dash%20%app) code in Python
 - Project [presentation](Presentation.pptx)
-- [Web application](https://hate-speech-automatic-detector.herokuapp.com/) deployed on Heroku
+- [Web application](https://hate-speech-automatic-detector.wix.com/) deployed on Heroku
 
 =======
 # Hate-speech-and-offensive-language-detection
